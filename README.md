@@ -21,3 +21,5 @@ CKEDITOR.editorConfig = function( config ) {
   config.baseHref = '<?=site_url();?>';
 };
 ````
+
+Any textarea can have the editor activated by giving it a class of ckeditor.
